@@ -6,5 +6,7 @@ int main ()
     std::cin >> a >>b>> c;
 
    std:: cout << "a + b + c = " <<a + b + c ;
+
+   
     return 0;
 }
