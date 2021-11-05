@@ -2,9 +2,9 @@
 
 int main () 
 {
-    int a,b;
-    cin >> a,b;
+    int a,b,c;
+    std::cin >> a >>b>> c;
 
-    cout << "a + b = " << a+b;
+   std:: cout << "a + b + c = " <<a + b + c ;
     return 0;
 }
