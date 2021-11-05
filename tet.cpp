@@ -2,6 +2,8 @@
 
 int main ()
 {
-   std:: cout <<"Hello moi nguoi nha";
+    int n;
+    std:: cin >> n; 
+   std:: cout <<"Hello moi nguoi nha " << n;
     return 0;
 }
